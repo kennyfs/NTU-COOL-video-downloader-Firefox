@@ -4,8 +4,8 @@
 
 <h1 align="center">NTU COOL 影片下載器（Firefox 版）</h1>
 
-[![en](https://img.shields.io/badge/lang-en-red)](https://github.com/willychen0146/NTU-COOL-video-downloader/blob/main/README.md)
-[![中文](https://img.shields.io/badge/lang-中文-green.svg)](https://github.com/willychen0146/NTU-COOL-video-downloader/blob/main/README.zh-TW.md)
+[![en](https://img.shields.io/badge/lang-en-red)](https://github.com/kennyfs/NTU-COOL-video-downloader-Firefox/blob/main/README.md)
+[![中文](https://img.shields.io/badge/lang-中文-green.svg)](https://github.com/kennyfs/NTU-COOL-video-downloader-Firefox/blob/main/README.zh-TW.md)
 
 *用於從 NTU COOL 網站下載影片與字幕的 Firefox 附加元件。此版本基於原始 Chrome 附加元件進行修改，新增 Firefox 相容性、字幕下載功能與國際化支援。*
 
