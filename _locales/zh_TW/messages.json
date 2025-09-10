@@ -1,0 +1,106 @@
+{
+  "extensionName": {
+    "message": "NTU COOL Video Downloader",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "Firefox extension for downloading videos and subtitles from NTU COOL system",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "NTU Video Downloader",
+    "description": "Popup window title"
+  },
+  "videoUrlLabel": {
+    "message": "影片網址",
+    "description": "Label for video URL display"
+  },
+  "videoUrlNotFound": {
+    "message": "找不到影片網址",
+    "description": "Error message when video URL is not found"
+  },
+  "downloadButton": {
+    "message": "下載",
+    "description": "Download button text"
+  },
+  "copyUrlButton": {
+    "message": "複製網址",
+    "description": "Copy URL button text"
+  },
+  "downloading": {
+    "message": "下載中...",
+    "description": "Loading text during download"
+  },
+  "downloadingVideoSubtitles": {
+    "message": "正在下載影片和字幕...",
+    "description": "Status message during download"
+  },
+  "downloadStarted": {
+    "message": "下載開始成功！",
+    "description": "Success message when download starts"
+  },
+  "subtitlesCount": {
+    "message": "字幕: $COUNT$",
+    "description": "Subtitle count display",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "2/3"
+      }
+    }
+  },
+  "subtitlesDownloadFailed": {
+    "message": "字幕下載失敗",
+    "description": "Error message for subtitle download failure"
+  },
+  "downloadFailed": {
+    "message": "下載失敗",
+    "description": "General download failure message"
+  },
+  "urlCopied": {
+    "message": "URL copied to clipboard!",
+    "description": "Message when URL is copied"
+  },
+  "contentScriptLoaded": {
+    "message": "NTU COOL Video Downloader 已載入",
+    "description": "Console message when content script loads"
+  },
+  "interceptedVideoRequest": {
+    "message": "攔截到影片請求:",
+    "description": "Console message for intercepted video request"
+  },
+  "interceptedSubtitleRequest": {
+    "message": "攔截到字幕請求:",
+    "description": "Console message for intercepted subtitle request"
+  },
+  "preparingSubtitleDownload": {
+    "message": "準備下載 $COUNT$ 個字幕檔案",
+    "description": "Console message for subtitle download preparation",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "subtitleDownloadSuccess": {
+    "message": "字幕下載成功:",
+    "description": "Console message for successful subtitle download"
+  },
+  "subtitleDownloadError": {
+    "message": "字幕下載失敗",
+    "description": "Console message for subtitle download error"
+  },
+  "videoDownloadFailed": {
+    "message": "影片下載失敗",
+    "description": "Error message for video download failure"
+  },
+  "videoUrlNotFoundError": {
+    "message": "找不到影片 URL",
+    "description": "Error when video URL cannot be found"
+  },
+  "videoInfoFetchFailed": {
+    "message": "獲取影片資訊失敗",
+    "description": "Error when fetching video information fails"
+  }
+}

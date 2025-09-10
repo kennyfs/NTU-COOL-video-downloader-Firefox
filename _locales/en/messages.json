@@ -1,0 +1,106 @@
+{
+  "extensionName": {
+    "message": "NTU COOL Video Downloader",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "Firefox extension for downloading videos and subtitles from NTU COOL system",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "NTU Video Downloader",
+    "description": "Popup window title"
+  },
+  "videoUrlLabel": {
+    "message": "Video URL",
+    "description": "Label for video URL display"
+  },
+  "videoUrlNotFound": {
+    "message": "Video URL not found",
+    "description": "Error message when video URL is not found"
+  },
+  "downloadButton": {
+    "message": "Download",
+    "description": "Download button text"
+  },
+  "copyUrlButton": {
+    "message": "Copy URL",
+    "description": "Copy URL button text"
+  },
+  "downloading": {
+    "message": "Downloading...",
+    "description": "Loading text during download"
+  },
+  "downloadingVideoSubtitles": {
+    "message": "Downloading video and subtitles...",
+    "description": "Status message during download"
+  },
+  "downloadStarted": {
+    "message": "Download started successfully!",
+    "description": "Success message when download starts"
+  },
+  "subtitlesCount": {
+    "message": "Subtitles: $COUNT$",
+    "description": "Subtitle count display",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "2/3"
+      }
+    }
+  },
+  "subtitlesDownloadFailed": {
+    "message": "Subtitle download failed",
+    "description": "Error message for subtitle download failure"
+  },
+  "downloadFailed": {
+    "message": "Download failed",
+    "description": "General download failure message"
+  },
+  "urlCopied": {
+    "message": "URL copied to clipboard!",
+    "description": "Message when URL is copied"
+  },
+  "contentScriptLoaded": {
+    "message": "NTU COOL Video Downloader loaded",
+    "description": "Console message when content script loads"
+  },
+  "interceptedVideoRequest": {
+    "message": "Intercepted video request:",
+    "description": "Console message for intercepted video request"
+  },
+  "interceptedSubtitleRequest": {
+    "message": "Intercepted subtitle request:",
+    "description": "Console message for intercepted subtitle request"
+  },
+  "preparingSubtitleDownload": {
+    "message": "Preparing to download $COUNT$ subtitle files",
+    "description": "Console message for subtitle download preparation",
+    "placeholders": {
+      "count": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "subtitleDownloadSuccess": {
+    "message": "Subtitle download success:",
+    "description": "Console message for successful subtitle download"
+  },
+  "subtitleDownloadError": {
+    "message": "Subtitle download failed",
+    "description": "Console message for subtitle download error"
+  },
+  "videoDownloadFailed": {
+    "message": "Video download failed",
+    "description": "Error message for video download failure"
+  },
+  "videoUrlNotFoundError": {
+    "message": "Video URL not found",
+    "description": "Error when video URL cannot be found"
+  },
+  "videoInfoFetchFailed": {
+    "message": "Failed to fetch video information",
+    "description": "Error when fetching video information fails"
+  }
+}
