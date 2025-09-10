@@ -4,8 +4,8 @@
 
 <h1 align="center">NTU COOL Video Downloader (Firefox Edition)</h1>
 
-[![en](https://img.shields.io/badge/lang-en-red)](https://github.com/willychen0146/NTU-COOL-video-downloader/blob/main/README.md)
-[![中文](https://img.shields.io/badge/lang-中文-green.svg)](https://github.com/willychen0146/NTU-COOL-video-downloader/blob/main/README.zh-TW.md)
+[![en](https://img.shields.io/badge/lang-en-red)](https://github.com/kennyfs/NTU-COOL-video-downloader-Firefox/blob/main/README.md)
+[![中文](https://img.shields.io/badge/lang-中文-green.svg)](https://github.com/kennyfs/NTU-COOL-video-downloader-Firefox/blob/main/README.zh-TW.md)
 
 *Firefox extension for downloading videos and subtitles from the NTU COOL website. This is a modified version based on the original Chrome extension with added Firefox support, subtitle downloading, and internationalization features.*
 
